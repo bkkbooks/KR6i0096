@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0096/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 淨名經集解關中疏
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2777.xml
+    old_id: T85n2777
+hash: sha256:5f728ccbee24879275b11a9ec9cf7d927be4292eefea650f504163b9659a7b96
